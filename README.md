@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @kubko46
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-kubko46/kubko46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Jakub and I’m 17 years old.
+- 👀 I’m interested in programming in C, Lua, PHP, HTML, JS and Python
+- 🌱 I’m currently learning Python and Lua
+- 📫 How to reach me: You can find me on discord : #alleyezonme#0420
