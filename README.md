@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jakub and I’m 17 years old.
+- 👋 Hi, I’m Jakub and I’m 19 years old.
 - 👀 I’m interested in programming in C, Lua, PHP, HTML, JS and Python
-- 🌱 I’m currently learning Python and Lua
-- 📫 How to reach me: You can find me on discord : #alleyezonme#0420
+- 🌱 I’m currently learning Python and Lua // 3.5.2023 - ASP.NET
+- 📫 How to reach me: You can find me on discord : Kubko46#6863
